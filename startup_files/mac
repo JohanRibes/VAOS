@@ -1,0 +1,2 @@
+em0 at pci0 dev 3 function 0 "Intel 82540EM" rev 0x02: irq 10, address 08:00:27:11:3a:5c
+em1 at pci0 dev 8 function 0 "Intel 82540EM" rev 0x02: irq 9, address 08:00:27:8a:86:e8
