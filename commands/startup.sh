@@ -4,4 +4,4 @@
 dmesg > ./startup_files/dmesg
 
 # grep each mac to startup/mac-addresses
-grep ..:..:..:..:..:.. ./startup_files/dmesg > ./startup_files/mac
+grep ^[a-z]*[0-9].*..:..:..:..:..:..$ ./startup_files/dmesg > ./startup_files/mac
