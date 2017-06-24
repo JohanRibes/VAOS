@@ -65,4 +65,17 @@ scsibus2 at vscsi0: 256 targets
 softraid0 at root
 scsibus3 at softraid0: 256 targets
 root on wd0a (d4ec107dab952196.a) swap on wd0b dump on wd0b
-WARNING: / was not properly unmounted
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
+duplicate IP address 192.168.2.89 sent from ethernet address 80:00:0b:13:02:f9
