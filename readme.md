@@ -10,6 +10,7 @@ My personnal goal is to test OpenBSD network stack on labs and deploy fast image
 
 
 ## Basic Structure
+```shell
 bash/				- bash files, aliases, functions, etc..
 commands/			- location of commands scripts
 |--------- view			- show or display commands
@@ -20,6 +21,7 @@ commands/			- location of commands scripts
 |--------- tool			- scripts providing tools or alias for tools.
 db_files			- some txt databases to grep, awk or sed.
 startup_files			- files generated at startup
+```
 
 
 ## Ideas
