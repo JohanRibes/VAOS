@@ -1,10 +1,10 @@
 #!/usr/local/bin/bash
 
+# Create VAOS_PATH global
+export VAOS_PATH=$( cd "$( dirname "${BASH_SOURCE[0]}" )"/.. && pwd )
+
+
+
 #Script
-alias startup=./commands/startup.sh
-alias oui_lookup=./commands/oui_lookup.sh
-
-
 #Source functions
-. ./commands/startup_functions.sh
 
